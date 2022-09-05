@@ -90,7 +90,7 @@
       </select>
     </div>
     <div class="mb-3">
-      <label for="issue" class="form-label">Issue</label>
+      <label for="issue" class="form-label">Fee</label>
       <input
         type="number"
         step=".01"
